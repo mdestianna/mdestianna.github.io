@@ -1,10 +1,9 @@
 title: Mescha Destianna # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+photo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! Thank you for coming to my page. I'm an aspiring Data Professional looking for a career transition into big data from an engineering background. I made this portfolio to document my journey. Kindly reach me out for any inputs or working opportunity.
+  Hi! Thank you for coming to my page. I'm an aspiring Data Professional looking for a career transition into big data from an engineering background. I made this portfolio to document my journey. Kindly reach me out for any inputs or opportunities.
   <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/meschadestianna/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
