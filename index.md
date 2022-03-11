@@ -4,7 +4,7 @@
 
 ### Google Skills Boost 
 
-[Insights From Data With Big Query]()
+[Insights From Data With Big Query]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
