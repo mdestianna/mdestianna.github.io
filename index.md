@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Insights From Data With Big Query](/https://github.com/mdestianna/InsightsFromDataWithBigQuery)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
