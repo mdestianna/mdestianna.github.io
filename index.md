@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Create ML Models With BQML](http://github.com/mdestianna/CreateMLModelsWithBQML)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Engineer Data In Google Cloud](http://github.com/mdestianna/EngineerDataInGoogleCloud)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
