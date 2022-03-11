@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Google Skills Boost 
 
-[Insights From Data With Big Query](/https://github.com/mdestianna/InsightsFromDataWithBigQuery)
+[Insights From Data With Big Query](/InsightsFromDataWithBigQuery)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
