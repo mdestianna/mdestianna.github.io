@@ -6,8 +6,8 @@
 These few example of exercises are non-guided challenge lab on Google Skills Boosts with Qwiklabs as part of Data Engineering and Machine Learning Fundamental training provided by Google. 
 
 Skills used: 
-SQL - joins, window functions
-BigQuery on GCP (Google Cloud Platform)
+- SQL - joins, window functions
+- BigQuery on GCP (Google Cloud Platform)
 
 [Insights From Data With Big Query](http://github.com/mdestianna/InsightsFromDataWithBigQuery)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
