@@ -3,7 +3,7 @@
 ---
 
 ### Google Skills Boost 
-These few example of exercises are non-guided challenge lab on Google Skills Boosts with Qwiklabs as part of Data Engineering and Machine Learning Fundamental training provided by Google. 
+These few example of exercises are non-guided challenge lab on Google Skills Boosts with Qwiklabs as part of Data Engineering and Machine Learning Fundamental training provided by Google.\
  Skills used: 
 - SQL - joins, window functions
 - BigQuery on GCP (Google Cloud Platform)
