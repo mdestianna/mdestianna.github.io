@@ -3,6 +3,7 @@
 ---
 
 ### Google Skills Boost 
+These few example of exercises are non-guided lab on Google Skills Boosts as part of Data Engineering and Machine Learning Fundamental training provided by Google.
 
 [Insights From Data With Big Query](http://github.com/mdestianna/InsightsFromDataWithBigQuery)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
