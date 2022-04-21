@@ -9,7 +9,7 @@ Skills used:
 - SQL - joins, window functions
 - BigQuery on GCP (Google Cloud Platform)
 
-[Insights From Data With Big Query](http://github.com/mdestianna/InsightsFromDataWithBigQuery)
+[Insights From Data With Big Query](https://mdestianna.github.io/InsightsFromDataWithBigQuery/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Create ML Models With BQML](http://github.com/mdestianna/CreateMLModelsWithBQML)
