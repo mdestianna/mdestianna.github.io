@@ -10,13 +10,10 @@ Skills used:
 - BigQuery on GCP (Google Cloud Platform)
 
 [Insights From Data With Big Query](https://mdestianna.github.io/InsightsFromDataWithBigQuery/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Create ML Models With BQML](http://github.com/mdestianna/CreateMLModelsWithBQML)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Create ML Models With BQML](https://mdestianna.github.io/CreateMLModelsWithBQML/)
 
-[Engineer Data In Google Cloud](http://github.com/mdestianna/EngineerDataInGoogleCloud)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Engineer Data In Google Cloud](https://mdestianna.github.io/EngineerDataInGoogleCloud/)
 
 
 ### Category Name 2
@@ -26,6 +23,7 @@ Skills used:
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
